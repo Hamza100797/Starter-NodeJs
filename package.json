@@ -1,0 +1,23 @@
+{
+  "name": "serverside",
+  "version": "1.0.0",
+  "description": "CRUD Student Registration using NGXS Store on front-End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamza100797/serverSide-studentRegistrationNGXS-Project.git"
+  },
+  "author": "hamzaBK1007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamza100797/serverSide-studentRegistrationNGXS-Project/issues"
+  },
+  "homepage": "https://github.com/Hamza100797/serverSide-studentRegistrationNGXS-Project#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.6"
+  }
+}
